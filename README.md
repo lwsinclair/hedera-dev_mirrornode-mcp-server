@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-hedera-dev-mirrornode-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-hedera-dev-mirrornode-mcp-server)
+
 # Hedera Testnet Mirror Node MCP Server
 
 This repository contains a Model Context Protocol (MCP) server that interfaces with the Hedera Testnet Mirror Node API.
